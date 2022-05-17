@@ -1,0 +1,6 @@
+.CoveoDynamicHierarchicalFacetBreadcrumbs {
+    .breadcrumb-separator::before,
+    .breadcrumb-separator::after {
+        content: ' ';
+    }
+}
